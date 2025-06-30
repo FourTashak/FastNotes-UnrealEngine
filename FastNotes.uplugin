@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "FastNotes",
+	"Description": "An engine extension for keeping and accessing notes for your assets in the content browser.",
+	"Category": "Editor",
+	"CreatedBy": "sefa mankaloglu",
+	"CreatedByURL": "",
+	"DocsURL": "https://www.youtube.com/watch?v=TXUUz_kTsvg",
+	"FabURL": "com.epicgames.launcher://ue/Fab/product/1e4c748e-9841-486b-8cb2-5f1aefc1104",
+	"SupportURL": "https://discord.gg/K6eQtdMd",
+	"EngineVersion": "5.4.0",
+	"CanContainContent": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "FastNotes",
+			"Type": "Editor",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64"
+			]
+		}
+	]
+}
